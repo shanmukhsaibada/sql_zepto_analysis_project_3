@@ -3,7 +3,7 @@
 
 This SQL project explores the Zepto product dataset to perform data exploration, cleaning, and analysis using PostgreSQL.
 
-![Zepto Data Analysis](./zepto-banner.png)
+![Zepto Data Analysis](./zeptobanner.png)
 
 ---
 
