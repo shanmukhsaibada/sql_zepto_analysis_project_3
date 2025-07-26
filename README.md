@@ -3,7 +3,7 @@
 
 This SQL project explores the Zepto product dataset to perform data exploration, cleaning, and analysis using PostgreSQL.
 
-![Banner](Red%20Bold%20Finance%20YouTube%20Thumbnail.png)
+![Banner](Red Bold Finance YouTube Thumbnail)
 
 ---
 
